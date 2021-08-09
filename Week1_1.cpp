@@ -1,3 +1,4 @@
+//Use Recursive Function
 #include<iostream>
 using namespace std;
 long long factorial(long long n)
